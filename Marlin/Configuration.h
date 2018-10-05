@@ -153,9 +153,9 @@
 /**
  * TEVO Tarantula Custom PID Settings - Stock Hotend
  */
-#define  hot_Kp 20.32
-#define  hot_Ki 1.91
-#define  hot_Kd 54.09
+#define  hot_Kp 23.22
+#define  hot_Ki 1.61
+#define  hot_Kd 83.71
 // FIND YOUR OWN: "M303 E0 C8 S200" to run autotune on the hotend at 200 degreesC for 8 cycles.
 // More info here: http://reprap.org/wiki/PID_Tuning
 
